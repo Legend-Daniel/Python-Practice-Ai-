@@ -45,7 +45,7 @@ def open_mode_window():
     label = CTkLabel(master=mode_window, text="This is a new mode window!", font=("Segoe UI", 18))
     label.pack(pady=40)
 
-set_appearance_mode("dark")
+set_appearance_mode("dark")nbhzby\fgyzgdyfu\g7dygfd\ay
 
 # Now the app's code comes here
 #---- this portion includes the numbers 1, 4 , 7 and mode
